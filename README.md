@@ -23,7 +23,7 @@ print(solution)
 ```
 
 ## Output:
-/home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/images/kavin1.png
+
 
 
 ## Result: 
