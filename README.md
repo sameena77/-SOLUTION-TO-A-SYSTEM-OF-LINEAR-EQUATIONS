@@ -23,7 +23,6 @@ print(solution)
 ```
 
 ## Output:
-![Screenshot (103)](https://user-images.githubusercontent.com/119875375/208238888-e8e37f7f-017f-4df0-a82e-624eb3184d1f.png)
 
 
 ## Result: 
