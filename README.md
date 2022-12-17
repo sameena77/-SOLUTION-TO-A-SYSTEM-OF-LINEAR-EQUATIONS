@@ -22,6 +22,7 @@ print(solution)
 ```
 
 ## Output:
+![kavin](https://user-images.githubusercontent.com/119875375/208263468-4da0f433-27e0-4bff-a310-4e23a7472c90.png)
 
 
 
