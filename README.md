@@ -1,4 +1,3 @@
-/home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/images/kavin1.png# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
