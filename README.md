@@ -1,4 +1,4 @@
-## Aim:
+## Aim:SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
 1. 	Hardware – PCs
