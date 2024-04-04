@@ -24,7 +24,8 @@ print(solution)
 
 
 ## Output:
-![Screenshot (51)](https://github.com/sameena77/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155620541/7821fcdf-805f-4e25-9a8f-f8f3d57e9c33)
+![image](https://github.com/sameena77/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155620541/1c930528-a666-409d-9ec0-ea055c094d6c)
+
 
 
 
