@@ -30,7 +30,7 @@ print(solu)
 
 
 ## Output:
-![Screenshot (52)](https://github.com/sameena77/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155620541/7e578705-f728-4783-bf83-52167e4cfedf)
+![Screenshot (51)](https://github.com/sameena77/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155620541/408a078d-0ac4-4668-8427-14167e73506a)
 
 
 
